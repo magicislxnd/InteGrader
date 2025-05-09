@@ -1,2 +1,2 @@
 # InteGrader
-Automated gradebook reminder with email notifications for missing assignments, connected to the Canvas API
+Automated gradebook tracker made for teachers, with email notifications for missing assignments. Connected to the Canvas API.
